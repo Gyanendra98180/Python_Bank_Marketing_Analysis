@@ -36,7 +36,7 @@ The goal is to apply Exploratory Data Analysis (EDA) and Machine Learning models
 ---
 
 ## 📊 Results
-- Best model: `XGBoost` (fill after training)  
+- Best model: `XGBoost`  
 - Accuracy: `85%`    
 - Key insights:
   - Which features most influence deposits
