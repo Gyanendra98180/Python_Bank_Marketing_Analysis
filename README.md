@@ -27,10 +27,7 @@ The goal is to apply Exploratory Data Analysis (EDA) and Machine Learning models
    - Correlation analysis & visualizations  
 
 3. **Modeling**
-   - Logistic Regression
-   - Decision Trees
-   - Random Forest
-   - XGBoost / LightGBM  
+  - XGBoost  
 
 4. **Evaluation**
    - Compare models on Accuracy, Precision, Recall, F1, ROC-AUC
@@ -39,9 +36,8 @@ The goal is to apply Exploratory Data Analysis (EDA) and Machine Learning models
 ---
 
 ## 📊 Results
-- Best model: `______` (fill after training)  
-- Accuracy: `__%`  
-- ROC-AUC: `__`  
+- Best model: `XGBoost` (fill after training)  
+- Accuracy: `85%`    
 - Key insights:
   - Which features most influence deposits
   - Recommendations for targeted marketing campaigns  
